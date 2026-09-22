@@ -1,0 +1,36 @@
+name: Atualizar ofertas Shopee
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar arquivos do site
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar ofertas da Shopee
+        env:
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+        run: python atualizar_shopee.py
+
+      - name: Salvar produtos atualizados
+        run: |
+          git config user.name "Clout Bot"
+          git config user.email "actions@github.com"
+          git add produtos_shopee.json
+          git diff --cached --quiet || git commit -m "Atualizar ofertas Shopee"
+          git push
