@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "Clout Bot"
           git config user.email "actions@github.com"
-          git add produtos_shopee.json
+          git add produtos_shopee.json index.html
           git diff --cached --quiet || git commit -m "Atualizar ofertas Shopee"
           git push
