@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oliverclout333.github.io/clout-promo-es/sitemap.xml
