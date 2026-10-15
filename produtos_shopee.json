@@ -1,62 +1,62 @@
 [
   {
+    "productName": "Shorts Masculino Tactel Praia Academia Treino Corrida Verão Secagem Rápida",
+    "price": "35",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk6q54prolxd1c",
+    "productLink": "https://shopee.com.br/product/1163397054/23394849645",
+    "offerLink": "https://s.shopee.com.br/1BBQLohiT",
+    "priceMin": "35",
+    "priceMax": "35",
+    "priceDiscountRate": 0,
+    "commissionRate": "0.83",
+    "commission": "29.05"
+  },
+  {
+    "productName": "Creatina Monohidratada Pura 300g Dark Lab - 100% Pura",
+    "price": "39.9",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-ms0du9lcw8p1d3",
+    "productLink": "https://shopee.com.br/product/1242044379/18699254225",
+    "offerLink": "https://s.shopee.com.br/1BN81825lC",
+    "priceMin": "39.9",
+    "priceMax": "39.9",
+    "priceDiscountRate": 47,
+    "commissionRate": "0.26",
+    "commission": "10.374"
+  },
+  {
+    "productName": "Pijama Baby Doll Sensual Top Doll Curtinho Sensual Confortável Sem Bojo Completo Oferta Envio 24H",
+    "price": "39",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6z9pck6xogf2",
+    "productLink": "https://shopee.com.br/product/515433918/19899320839",
+    "offerLink": "https://s.shopee.com.br/5LChm9UOu0",
+    "priceMin": "39",
+    "priceMax": "79",
+    "priceDiscountRate": 56,
+    "commissionRate": "0.32",
+    "commission": "12.48"
+  },
+  {
+    "productName": "Parafusadeira Furadeira 25V Nakasaki Sem Fio a Bateria Profissional Kit Completo com Maleta",
+    "price": "89.99",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-msq8pkzchmh355",
+    "productLink": "https://shopee.com.br/product/728389176/58217601055",
+    "offerLink": "https://s.shopee.com.br/5fpYAlT8E6",
+    "priceMin": "89.99",
+    "priceMax": "89.99",
+    "priceDiscountRate": 70,
+    "commissionRate": "0.13",
+    "commission": "11.6987"
+  },
+  {
     "productName": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
     "price": "29.9",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
     "productLink": "https://shopee.com.br/product/347988064/9212570285",
-    "offerLink": "https://s.shopee.com.br/AUun8HSYpO",
+    "offerLink": "https://s.shopee.com.br/9pf78QDGln",
     "priceMin": "29.9",
     "priceMax": "83.05",
     "priceDiscountRate": 72,
     "commissionRate": "0.18",
     "commission": "5.382"
-  },
-  {
-    "productName": "Kit Estética Automotiva Vonixx V-Floc Tok Final Intense 240ml Pneu Pretinho Pano Pincel E Aplicador",
-    "price": "113.58",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mqhpbloq1q0x0e",
-    "productLink": "https://shopee.com.br/product/316945044/55260497129",
-    "offerLink": "https://s.shopee.com.br/7pu1xNciF8",
-    "priceMin": "113.58",
-    "priceMax": "113.58",
-    "priceDiscountRate": 13,
-    "commissionRate": "0.14",
-    "commission": "15.9012"
-  },
-  {
-    "productName": "Quadros decorativos Jogos Preto e branco sala quarto interna da sua casa (3 peças)",
-    "price": "38.5",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mtsfk9ul493681",
-    "productLink": "https://shopee.com.br/product/318103035/20197675372",
-    "offerLink": "https://s.shopee.com.br/905zLWYGrz",
-    "priceMin": "38.5",
-    "priceMax": "50.4",
-    "priceDiscountRate": 48,
-    "commissionRate": "0.5484",
-    "commission": "21.1134"
-  },
-  {
-    "productName": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-    "price": "39.9",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
-    "productLink": "https://shopee.com.br/product/1242044379/22092998564",
-    "offerLink": "https://s.shopee.com.br/Lo11b5GS7",
-    "priceMin": "39.9",
-    "priceMax": "78.9",
-    "priceDiscountRate": 58,
-    "commissionRate": "0.26",
-    "commission": "10.374"
-  },
-  {
-    "productName": "Moletom com Zíper e Capuz Raw Company Cursiva Várias Cores Streetwear Unissex 100% Algodão",
-    "price": "104.93",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ak-mqv5cfpt2jgg8b",
-    "productLink": "https://shopee.com.br/product/811051540/58264602596",
-    "offerLink": "https://s.shopee.com.br/2LZ5PGxeOZ",
-    "priceMin": "104.93",
-    "priceMax": "104.93",
-    "priceDiscountRate": 0,
-    "commissionRate": "0.18",
-    "commission": "18.8874"
   }
 ]
