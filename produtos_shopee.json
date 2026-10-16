@@ -1,22 +1,46 @@
 [
   {
-    "productName": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-    "price": "39.9",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
-    "productLink": "https://shopee.com.br/product/1242044379/22092998564",
-    "offerLink": "https://s.shopee.com.br/8V9jw9omoQ",
-    "priceMin": "39.9",
-    "priceMax": "78.9",
-    "priceDiscountRate": 58,
-    "commissionRate": "0.26",
-    "commission": "10.374"
+    "productName": "Fone Bluetooth Gamer Jogos E-sports Fone de ouvido sem fio Academia Corrida treino Dual Pro Tws",
+    "price": "43.9",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9k5iv46v8xu13",
+    "productLink": "https://shopee.com.br/product/1013362422/22898426965",
+    "offerLink": "https://s.shopee.com.br/70KxLxSGcB",
+    "priceMin": "43.9",
+    "priceMax": "43.9",
+    "priceDiscountRate": 12,
+    "commissionRate": "0.21",
+    "commission": "9.219"
+  },
+  {
+    "productName": "Calça Denim Baggy Masculina Balão Larga Carpenter Tecido Premium Dazzling",
+    "price": "59.9",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mq8fdosowmww31",
+    "productLink": "https://shopee.com.br/product/1640887988/58258365609",
+    "offerLink": "https://s.shopee.com.br/8KqKwPNBuZ",
+    "priceMin": "59.9",
+    "priceMax": "79.9",
+    "priceDiscountRate": 60,
+    "commissionRate": "0.23",
+    "commission": "13.777"
+  },
+  {
+    "productName": "Processador AMD Ryzen 5 5500, 3.6GHz, Cache 16MB, Hexa Core, 12 Threads, AM4 - 100-100000457BOX",
+    "price": "629",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7gz1moves0c3d",
+    "productLink": "https://shopee.com.br/product/344381236/22098341792",
+    "offerLink": "https://s.shopee.com.br/5q8zxoWhyo",
+    "priceMin": "629",
+    "priceMax": "629",
+    "priceDiscountRate": 21,
+    "commissionRate": "0.03",
+    "commission": "18.87"
   },
   {
     "productName": "Boné Snapback Preto Bordado Floral Sakura Aba Reta Ajustável Unissex Streetwear Premium",
     "price": "64.93",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-moym14zqvy11e3",
     "productLink": "https://shopee.com.br/product/1024342364/23399489364",
-    "offerLink": "https://s.shopee.com.br/1BN9CgGhhB",
+    "offerLink": "https://s.shopee.com.br/AKbPK5FZr1",
     "priceMin": "64.93",
     "priceMax": "64.93",
     "priceDiscountRate": 35,
@@ -24,39 +48,15 @@
     "commission": "10.3888"
   },
   {
-    "productName": "Kit Estética Automotiva Vonixx V-Floc Tok Final Intense 240ml Pneu Pretinho Pano Pincel E Aplicador",
-    "price": "91.47",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mqhpbloq1q0x0e",
-    "productLink": "https://shopee.com.br/product/316945044/55260497129",
-    "offerLink": "https://s.shopee.com.br/2LZ6apCGKW",
-    "priceMin": "91.47",
-    "priceMax": "91.47",
-    "priceDiscountRate": 30,
-    "commissionRate": "0.14",
-    "commission": "12.8058"
-  },
-  {
-    "productName": "Camiseta Masculina Synaworld Central Cee | Conjunto Streetwear Syna Shirt de Verão *** Lindo",
-    "price": "79.92",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82630-mmibaelv80lecf",
-    "productLink": "https://shopee.com.br/product/1331895385/58208020660",
-    "offerLink": "https://s.shopee.com.br/qkIo4HyN9",
-    "priceMin": "79.92",
-    "priceMax": "79.92",
-    "priceDiscountRate": 20,
-    "commissionRate": "0.17",
-    "commission": "13.5864"
-  },
-  {
-    "productName": "{ORIGINAL} KIT Carregador Cabo E Fonte Tipo C Lightning XR,11,12,13,14 LACRADO",
-    "price": "67.12",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m18noigfcx8e96",
-    "productLink": "https://shopee.com.br/product/1022538008/20297921812",
-    "offerLink": "https://s.shopee.com.br/2qVNBkAMJr",
-    "priceMin": "67.12",
-    "priceMax": "67.12",
-    "priceDiscountRate": 15,
-    "commissionRate": "0.26",
-    "commission": "17.4512"
+    "productName": "Omeleteira Agratto Mr Cheff Inox Redonda 127v / 220v",
+    "price": "115.9",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mmc8h9uyaoee6b",
+    "productLink": "https://shopee.com.br/product/729366575/58257789013",
+    "offerLink": "https://s.shopee.com.br/5VW9ZCXyei",
+    "priceMin": "115.9",
+    "priceMax": "115.9",
+    "priceDiscountRate": 23,
+    "commissionRate": "0.48",
+    "commission": "55.632"
   }
 ]
