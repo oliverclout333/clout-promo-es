@@ -1,10 +1,34 @@
 [
   {
+    "productName": "Creatina Monohidratada 100% Pura 150g  importada  KRON",
+    "price": "21.86",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mtjsgzx9qpdv93",
+    "productLink": "https://shopee.com.br/product/1798950723/43684764598",
+    "offerLink": "https://s.shopee.com.br/4LKQKaX6l9",
+    "priceMin": "21.86",
+    "priceMax": "21.86",
+    "priceDiscountRate": 55,
+    "commissionRate": "0.24",
+    "commission": "5.2464"
+  },
+  {
+    "productName": "Jaqueta Corta Vento Impermeável Estilo Motociclista – proteção contra chuva e vento, capuz removivel",
+    "price": "159.99",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mn2xps8umi9wf8",
+    "productLink": "https://shopee.com.br/product/1609727728/23498831622",
+    "offerLink": "https://s.shopee.com.br/9fLwgOCnwg",
+    "priceMin": "159.99",
+    "priceMax": "159.99",
+    "priceDiscountRate": 5,
+    "commissionRate": "0.15",
+    "commission": "23.9985"
+  },
+  {
     "productName": "Teclado Mecânico Gamer Titorion 60% Teclado Preto Computador ABNT2 Hot Swap RGB Switch Red Brown USB LED Titorion",
     "price": "144.8",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mt6ul6vosop203",
     "productLink": "https://shopee.com.br/product/473616631/41365763294",
-    "offerLink": "https://s.shopee.com.br/4LKQ0WBunw",
+    "offerLink": "https://s.shopee.com.br/5VWNijSfOT",
     "priceMin": "144.8",
     "priceMax": "144.8",
     "priceDiscountRate": 52,
@@ -12,51 +36,27 @@
     "commission": "20.272"
   },
   {
-    "productName": "Fone de ouvido Wireless sem fio Bluetooth 760BT Microfone Pure Bass Cancelamento Ativo de Ruído Mp3",
-    "price": "39.55",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mtdw9dzq5vcw6e",
-    "productLink": "https://shopee.com.br/product/217896078/22199262533",
-    "offerLink": "https://s.shopee.com.br/70LBBQ1lOC",
-    "priceMin": "39.55",
-    "priceMax": "46.74",
-    "priceDiscountRate": 45,
-    "commissionRate": "0.21",
-    "commission": "8.3055"
+    "productName": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
+    "price": "42.89",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa",
+    "productLink": "https://shopee.com.br/product/1103946075/19899586753",
+    "offerLink": "https://s.shopee.com.br/4B108HXk64",
+    "priceMin": "42.89",
+    "priceMax": "42.89",
+    "priceDiscountRate": 78,
+    "commissionRate": "0.14",
+    "commission": "6.0046"
   },
   {
-    "productName": "Kit 100 Bolas de Natal E Estrela Ponteira Decoração Enfeite Árvore Fosca Glitter Vermelha Dourada",
-    "price": "79.9",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258v-muigu8mn3fgh2a",
-    "productLink": "https://shopee.com.br/product/1073368527/22394465191",
-    "offerLink": "https://s.shopee.com.br/1LgoR0NKte",
-    "priceMin": "79.9",
-    "priceMax": "169.9",
-    "priceDiscountRate": 48,
-    "commissionRate": "0.21",
-    "commission": "16.779"
-  },
-  {
-    "productName": "2026 Nova Série 8 Relógio T800 Ultra Smart Watch Esportivo Sem Fio À Prova D'água T800 Ultra2 MAX",
-    "price": "45.99",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdym-lxrzfhio6fhl9d",
-    "productLink": "https://shopee.com.br/product/1180920205/22093160276",
-    "offerLink": "https://s.shopee.com.br/60Sdza5ZQE",
-    "priceMin": "45.99",
-    "priceMax": "65.88",
-    "priceDiscountRate": 70,
-    "commissionRate": "0.16",
-    "commission": "7.3584"
-  },
-  {
-    "productName": "Tenis Masculino Casual Esportivo Academia Street Urban Leve Treino Confortavel Moderno",
-    "price": "99.51",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261n-mm6bes7z60oyf6",
-    "productLink": "https://shopee.com.br/product/329076450/49307605351",
-    "offerLink": "https://s.shopee.com.br/50a6nk9NS8",
-    "priceMin": "99.51",
-    "priceMax": "99.51",
-    "priceDiscountRate": 17,
-    "commissionRate": "0.19",
-    "commission": "18.9069"
+    "productName": "Mouse Attack Shark X11 Bluetooth para notebook sem fio com dock de carregamento magnético 63 g ultraleve 22000 DPI novo",
+    "price": "151.39",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmh5v8n2m6f4e2",
+    "productLink": "https://shopee.com.br/product/1672861664/48360418130",
+    "offerLink": "https://s.shopee.com.br/70LBVUMxLu",
+    "priceMin": "151.39",
+    "priceMax": "151.39",
+    "priceDiscountRate": 25,
+    "commissionRate": "0.13",
+    "commission": "19.6807"
   }
 ]
