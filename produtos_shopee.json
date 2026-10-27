@@ -1,62 +1,62 @@
 [
   {
+    "productName": "Camisa de Compressão Poliamida LISA Masculina Camiseta BASICA Rash Guard Jiujitsu Academia Treino",
+    "price": "27.99",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ir-mpx01diao1lb06",
+    "productLink": "https://shopee.com.br/product/1368260695/53462836946",
+    "offerLink": "https://s.shopee.com.br/5AtadBbLhN",
+    "priceMin": "27.99",
+    "priceMax": "89.99",
+    "priceDiscountRate": 77,
+    "commissionRate": "0.13",
+    "commission": "3.6387"
+  },
+  {
+    "productName": "Garrafa Inox Térmica Com Capinha Protetora De Silicone Antiderrapante",
+    "price": "31.99",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mt00jk3e0eme7b",
+    "productLink": "https://shopee.com.br/product/406969593/23698786124",
+    "offerLink": "https://s.shopee.com.br/1gJiSkofnM",
+    "priceMin": "31.99",
+    "priceMax": "38.99",
+    "priceDiscountRate": 54,
+    "commissionRate": "0.28",
+    "commission": "8.9572"
+  },
+  {
+    "productName": "Fone Bluetooth Sem Fio De Ouvido  BT-760 TWS Macaron Headphone Fone de Ouvido Envio Imediato",
+    "price": "40.99",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mrk5q70ufqx31a",
+    "productLink": "https://shopee.com.br/product/217896078/58202483331",
+    "offerLink": "https://s.shopee.com.br/50aAQsbz2K",
+    "priceMin": "40.99",
+    "priceMax": "51.77",
+    "priceDiscountRate": 43,
+    "commissionRate": "0.21",
+    "commission": "8.6079"
+  },
+  {
+    "productName": "I Fone de Ouvido Sem Fio Airpods PRO Com Cancelamento De Ruído Bluetooth  Pop-Up para iOS Android",
+    "price": "57.99",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gr-meo8zdt3mfpd2f",
+    "productLink": "https://shopee.com.br/product/1142052307/18899877225",
+    "offerLink": "https://s.shopee.com.br/gRBGusTp8",
+    "priceMin": "57.99",
+    "priceMax": "89.99",
+    "priceDiscountRate": 55,
+    "commissionRate": "0.12",
+    "commission": "6.9588"
+  },
+  {
     "productName": "Parafusadeira Furadeira 25V Nakasaki Sem Fio a Bateria Profissional Kit Completo com Maleta",
     "price": "89.99",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-msq8pkzchmh355",
     "productLink": "https://shopee.com.br/product/728389176/58217601055",
-    "offerLink": "https://s.shopee.com.br/4LKSNdETPF",
+    "offerLink": "https://s.shopee.com.br/906JCEMkuS",
     "priceMin": "89.99",
     "priceMax": "89.99",
     "priceDiscountRate": 70,
     "commissionRate": "0.13",
     "commission": "11.6987"
-  },
-  {
-    "productName": "Alvejante Percarbonato de Sódio Calisul 99% Puro Sem Cloro Limpeza Roupa Branca Colorida Clareador Tira Mancha",
-    "price": "25.9",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-ms6z4y7egao720",
-    "productLink": "https://shopee.com.br/product/1523913267/58260237454",
-    "offerLink": "https://s.shopee.com.br/AUv6bGYtCb",
-    "priceMin": "25.9",
-    "priceMax": "159.6",
-    "priceDiscountRate": 35,
-    "commissionRate": "0.23",
-    "commission": "5.957"
-  },
-  {
-    "productName": "Creatina Monohidratada Pura Refil 1Kg Dark Lab - Creatine, Creatina 100% Pura",
-    "price": "78.9",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms0du9lcp7ut42",
-    "productLink": "https://shopee.com.br/product/1242044379/23297485141",
-    "offerLink": "https://s.shopee.com.br/9V2ZPQchEV",
-    "priceMin": "78.9",
-    "priceMax": "78.9",
-    "priceDiscountRate": 56,
-    "commissionRate": "0.26",
-    "commission": "20.514"
-  },
-  {
-    "productName": "Console PlayStation 5 Edição Slim Digital 825GB Novo Lacrado",
-    "price": "4549.9",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3avl51a04y3d",
-    "productLink": "https://shopee.com.br/product/1097151802/23093823316",
-    "offerLink": "https://s.shopee.com.br/2Vsp4Z3LRI",
-    "priceMin": "4549.9",
-    "priceMax": "4549.9",
-    "priceDiscountRate": 17,
-    "commissionRate": "0.03",
-    "commission": "136.497"
-  },
-  {
-    "productName": "Teclado Mecânico Gamer Titorion 60% Teclado Preto Computador ABNT2 Hot Swap RGB Switch Red Brown USB LED Titorion",
-    "price": "144.8",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mt6ul6vosop203",
-    "productLink": "https://shopee.com.br/product/473616631/41365763294",
-    "offerLink": "https://s.shopee.com.br/4qGiyYCZOQ",
-    "priceMin": "144.8",
-    "priceMax": "159.9",
-    "priceDiscountRate": 52,
-    "commissionRate": "0.14",
-    "commission": "20.272"
   }
 ]
