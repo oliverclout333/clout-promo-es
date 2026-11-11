@@ -1,46 +1,10 @@
 [
   {
-    "productName": "Conjunto Fitness Feminino Legging + Top Academia Suplex Zero Transparência",
-    "price": "59.9",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mvax97ax08hted",
-    "productLink": "https://shopee.com.br/product/419739190/23694205612",
-    "offerLink": "https://s.shopee.com.br/30pSkwMYD8",
-    "priceMin": "59.9",
-    "priceMax": "119.9",
-    "priceDiscountRate": 50,
-    "commissionRate": "0.29",
-    "commission": "17.371"
-  },
-  {
-    "productName": "Parafusadeira Furadeira 1X Bateria 25V Nakasaki Sem Fio Profissional Kit Completo com Maleta",
-    "price": "95.99",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mv3iib53t4owb4",
-    "productLink": "https://shopee.com.br/product/728389176/58217601055",
-    "offerLink": "https://s.shopee.com.br/9AQ66Gz4gl",
-    "priceMin": "95.99",
-    "priceMax": "95.99",
-    "priceDiscountRate": 68,
-    "commissionRate": "0.13",
-    "commission": "12.4787"
-  },
-  {
-    "productName": "Chinelo Slide Nuvem Unissex Leve Macio Confortável Casual",
-    "price": "28.98",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mqc017gre5u44d",
-    "productLink": "https://shopee.com.br/product/1864181446/23995046606",
-    "offerLink": "https://s.shopee.com.br/7Af1ib6gkp",
-    "priceMin": "28.98",
-    "priceMax": "28.98",
-    "priceDiscountRate": 42,
-    "commissionRate": "0.07",
-    "commission": "2.0286"
-  },
-  {
     "productName": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo",
     "price": "24.98",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mpc4vr2tpd6u72",
     "productLink": "https://shopee.com.br/product/1249391293/58210250035",
-    "offerLink": "https://s.shopee.com.br/6fil7g8alg",
+    "offerLink": "https://s.shopee.com.br/8Kr04aLZeO",
     "priceMin": "24.98",
     "priceMax": "38.99",
     "priceDiscountRate": 36,
@@ -48,15 +12,51 @@
     "commission": "0.7494"
   },
   {
-    "productName": "Alvejante Percarbonato de Sódio Calisul 99% Puro Sem Cloro Limpeza Roupa Branca Colorida Clareador Tira Mancha",
-    "price": "25.9",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-ms6z4y7egao720",
-    "productLink": "https://shopee.com.br/product/1523913267/58260237454",
-    "offerLink": "https://s.shopee.com.br/70LbWI7K5m",
-    "priceMin": "25.9",
-    "priceMax": "159.6",
-    "priceDiscountRate": 35,
+    "productName": "Macaquinho Fitness Alcinha Costas Abertas Zero Transparencia",
+    "price": "44.99",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mmj2atq4ltdz52",
+    "productLink": "https://shopee.com.br/product/542450692/22094301885",
+    "offerLink": "https://s.shopee.com.br/60T4KSB87M",
+    "priceMin": "44.99",
+    "priceMax": "44.99",
+    "priceDiscountRate": 80,
     "commissionRate": "0.23",
-    "commission": "5.957"
+    "commission": "10.3477"
+  },
+  {
+    "productName": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
+    "price": "19.9",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mry50y1zr1mo61",
+    "productLink": "https://shopee.com.br/product/1006215031/45255565009",
+    "offerLink": "https://s.shopee.com.br/6L5vguTBiC",
+    "priceMin": "19.9",
+    "priceMax": "19.9",
+    "priceDiscountRate": 26,
+    "commissionRate": "0.09",
+    "commission": "1.791"
+  },
+  {
+    "productName": "Kit 2 Regata Top/cropped Femenina Canelada Forrada Basic Mod",
+    "price": "50",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257s-mslkfpuet0xx8a",
+    "productLink": "https://shopee.com.br/product/1607519540/26095727849",
+    "offerLink": "https://s.shopee.com.br/5VWnjXD28L",
+    "priceMin": "50",
+    "priceMax": "50",
+    "priceDiscountRate": 0,
+    "commissionRate": "0.83",
+    "commission": "41.5"
+  },
+  {
+    "productName": "Conjunto Fitness Feminino Legging + Top Academia Suplex Zero Transparência",
+    "price": "59.9",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mvax97ax08hted",
+    "productLink": "https://shopee.com.br/product/419739190/23694205612",
+    "offerLink": "https://s.shopee.com.br/7VHt53OkLL",
+    "priceMin": "59.9",
+    "priceMax": "119.9",
+    "priceDiscountRate": 50,
+    "commissionRate": "0.29",
+    "commission": "17.371"
   }
 ]
